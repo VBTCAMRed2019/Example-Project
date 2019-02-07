@@ -1,1 +1,2 @@
 This is example project work.
+This is another line added to the file.
